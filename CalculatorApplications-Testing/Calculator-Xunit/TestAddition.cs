@@ -12,12 +12,20 @@ namespace Calculator_Xunit
         {
             calculator = new Calculator();  
         }
+
         [Fact]
         public void TestPotivitDivison()
         {
             int res = calculator.Division(4, 2);
             Assert.Equal(2, res);
             
+        }
+
+        [Fact]
+        public void TestPotivitDivison2()
+        {
+            int res =calculator.Division(4, -2);
+            Assert.Equal(-2, res);
         }
     }
 }
