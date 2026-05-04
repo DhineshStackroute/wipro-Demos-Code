@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Calculator-MsTest/Calculator-MsTest.csproj" Id="be2bbabb-aa4c-4f8f-8279-ea661ce930eb" />
+  <Project Path="Calculator-Nunit/Calculator-Nunit.csproj" Id="97d912dd-c373-4a25-935a-f358ad9f61bf" />
+  <Project Path="Calculator-Xunit/Calculator-Xunit.csproj" Id="ac0ba621-70a9-4092-a985-b251d8149c10" />
+  <Project Path="CalculatorApplications-Testing/CalculatorApplications-Testing.csproj" />
+</Solution>
